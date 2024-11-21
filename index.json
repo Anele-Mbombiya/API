@@ -1,0 +1,87 @@
+[
+    {
+        "firstName":"Anele",
+        "lastName": "Mbombiya",
+        "faveHobby": "cooking",
+        "criminal": false,
+        "dreamCar":[
+            {
+            "carName": "Austin Martin",
+            "enginCapacity": 12,
+            "model": "carbon box"
+        },
+        {
+            "carName": "BMW",
+            "enginCapacity": 12,
+            "model": "carbon box"
+        }
+    
+        ]
+    },
+    {
+        "firstName":"Mulalo",
+        "lastName": "Mabuda",
+        "faveHobby": "cooking",
+        "criminal": true,
+        "dreamCar":[
+            {
+                "carName": "Golf 8",
+                "enginCapacity": 8,
+                "model":"carbon box"
+
+
+            },
+            {
+                "carName": "AMG",
+                "enginCapacity": 8,
+                "model":"carbon box"
+
+
+            }
+        ]
+    },
+    {
+        "firstName":"Sinoyolo",
+        "lastName": "Ngavu",
+        "faveHobby": "Music",
+        "criminal": true,
+        "dreamCar":[
+            {
+                "carName": "Toyota",
+                "enginCapacity": 6,
+                "model":"carbon box"
+
+
+            },
+            {
+                "carName": "Ford Ranger",
+                "enginCapacity": 12,
+                "model":"carbon box"
+
+
+            }
+        ]
+    },
+    {
+        "firstName":"Mathew",
+        "lastName": "Brown",
+        "faveHobby": "Squash",
+        "criminal": false,
+        "dreamCar":[
+            {
+                "carName": "UNO",
+                "enginCapacity": 6,
+                "model":"carbon box"
+
+
+            },
+            {
+                "carName": "",
+                "enginCapacity": 8,
+                "model":"carbon box"
+
+
+            }
+        ]
+    }
+]
